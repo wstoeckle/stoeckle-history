@@ -24,6 +24,15 @@ privacy:
 
 # Katherine Friederike Nuffer Stoeckle
 
+> **Died:** February 7, 1932 in Michigan Center, Jackson County, Michigan
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | George Nufer |
+| Mother | Philippina Breiting |
+
 ## Facts
 - Died on 1932-02-07 in Michigan Center (Leoni Township, Jackson County, Michigan).
 - Parents listed as George Nufer and Philippina Breiting.

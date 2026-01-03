@@ -24,6 +24,17 @@ privacy:
 
 # Alvina Helena Seehafer
 
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | [William Gottlieb Seehafer](seehafer-william-gottlieb.md) (likely) |
+| Mother | [Wilhelmina Boelter Seehafer](seehafer-wilhelmina-boelter.md) (likely) |
+| Sister | [Clara F. Seehafer](seehafer-clara-f.md) |
+| Sister | [Ida M. Seehafer](seehafer-ida-m.md) |
+| Sister | [Bertha A. Seehafer](seehafer-bertha-a.md) |
+| Brother | [William "Bill" Seehafer](seehafer-william-carl-bill.md) |
+
 ## Facts
 - Listed in the Ann Arbor City Directory as a domestic at 749 E University av (1910) and as a clerk at Mack & Co while boarding at 509 Cedar (1912-1916).
 - TODO: Add confirmed birth and death details.

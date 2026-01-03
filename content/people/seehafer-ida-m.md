@@ -24,6 +24,19 @@ privacy:
 
 # Ida M. Seehafer
 
+> **Born:** February 5, 1892 in Germany | **Died:** December 8, 1948 at Ypsilanti State Hospital
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | [William Gottlieb Seehafer](seehafer-william-gottlieb.md) |
+| Mother | [Wilhelmina Boelter Seehafer](seehafer-wilhelmina-boelter.md) |
+| Sister | [Clara F. Seehafer](seehafer-clara-f.md) |
+| Sister | [Bertha A. Seehafer](seehafer-bertha-a.md) |
+| Sister | [Alvina Helena Seehafer](seehafer-alvina-helena.md) |
+| Brother | [William "Bill" Seehafer](seehafer-william-carl-bill.md) |
+
 ## Facts
 - Died in 1948 at Ypsilanti State Hospital.
 - Cause of death listed as meningioma with cerebral edema; contributory bronchopneumonia.

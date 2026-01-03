@@ -5,41 +5,82 @@ title: "Sources"
 
 # Sources
 
-## Death Certificates
-- [Michigan Death Certificate: Clara F. Seehafer (1916)](death-cert-seehafer-clara-1916.md)
-- [Michigan Death Certificate: Ida M. Seehafer (1948)](death-cert-seehafer-ida-1948.md)
-- [Michigan Death Certificate: William Gottlob Seehafer (1921)](death-cert-seehafer-william-1921.md)
-- [Michigan Death Certificate: Wilhelmina Seehafer (1922)](death-cert-seehafer-wilhelmina-1922.md)
-- [Michigan Death Certificate: Edward M. Stoeckle (1915)](death-cert-stoeckle-edward-1915.md)
-- [Michigan Death Certificate: Theodore Ernest Stoeckle (1924)](death-cert-stoeckle-theodore-1924.md)
-- [Michigan Death Certificate: Rebecca Seehafer (1919)](death-cert-seehafer-rebecca-1919.md)
+All primary sources used in this research, organized by type. Every fact in the people profiles traces back to one of these documents.
 
-## Directories
+---
+
+## Death Certificates
+
+Official Michigan death certificates with transcribed key fields and interpretation notes.
+
+| Person | Year | Key Information |
+|--------|------|-----------------|
+| [Edward M. Stoeckle](death-cert-stoeckle-edward-1915.md) | 1915 | Barber, died of pneumonia |
+| [Clara F. Seehafer](death-cert-seehafer-clara-1916.md) | 1916 | Died at Pontiac State Hospital |
+| [Rebecca Seehafer](death-cert-seehafer-rebecca-1919.md) | 1919 | Wife of Julius |
+| [William Gottlob Seehafer](death-cert-seehafer-william-1921.md) | 1921 | Patriarch, mitral stenosis |
+| [Wilhelmina Seehafer](death-cert-seehafer-wilhelmina-1922.md) | 1922 | Matriarch, arteriosclerosis |
+| [Theodore Ernest Stoeckle](death-cert-stoeckle-theodore-1924.md) | 1924 | Infant, 13 days old |
+| [Ida M. Seehafer](death-cert-seehafer-ida-1948.md) | 1948 | Died at Ypsilanti State Hospital |
+
+---
+
+## City Directories
+
+Ann Arbor city directories documenting addresses and occupations over time.
+
+### AADL Digital Collection (scanned pages)
+
+| Year | Link |
+|------|------|
+| 1902 | [View](aadl-directory-1902.md) |
+| 1904 | [View](aadl-directory-1904.md) |
+| 1905 | [View](aadl-directory-1905.md) |
+| 1908 | [View](aadl-directory-1908.md) |
+| 1910 | [View](aadl-directory-1910.md) |
+| 1912 | [View](aadl-directory-1912.md) |
+| 1913 | [View](aadl-directory-1913.md) |
+| 1914 | [View](aadl-directory-1914.md) |
+| 1915 | [View](aadl-directory-1915.md) |
+| 1916 | [View](aadl-directory-1916.md) |
+| 1917 | [View](aadl-directory-1917.md) |
+| 1918 | [View](aadl-directory-1918.md) |
+| 1919 | [View](aadl-directory-1919.md) |
+
+### Other Directory Sources
+
 - [Ann Arbor City Directory - 1902 (Glen V. Mills)](directory-1902.md)
 - [Ann Arbor City Directory - 1904 (Glen V. Mills)](directory-1904.md)
 - [Ann Arbor City Directory - 1908 (Polk)](directory-1908.md)
 - [Ann Arbor City Directory - 1955 (Polk)](directory-1955.md)
-- [Ann Arbor City Directory (AADL) - 1902](aadl-directory-1902.md)
-- [Ann Arbor City Directory (AADL) - 1904](aadl-directory-1904.md)
-- [Ann Arbor City Directory (AADL) - 1905](aadl-directory-1905.md)
-- [Ann Arbor City Directory (AADL) - 1908](aadl-directory-1908.md)
-- [Ann Arbor City Directory (AADL) - 1910](aadl-directory-1910.md)
-- [Ann Arbor City Directory (AADL) - 1912](aadl-directory-1912.md)
-- [Ann Arbor City Directory (AADL) - 1913](aadl-directory-1913.md)
-- [Ann Arbor City Directory (AADL) - 1914](aadl-directory-1914.md)
-- [Ann Arbor City Directory (AADL) - 1915](aadl-directory-1915.md)
-- [Ann Arbor City Directory (AADL) - 1916](aadl-directory-1916.md)
-- [Ann Arbor City Directory (AADL) - 1917](aadl-directory-1917.md)
-- [Ann Arbor City Directory (AADL) - 1918](aadl-directory-1918.md)
-- [Ann Arbor City Directory (AADL) - 1919](aadl-directory-1919.md)
 
-## Memoirs / Family Documents
-- [Rememberances of Sturgis as Heard From John D Stoeckle](jds-memories.md)
-- [Rememberances of the Seehafer Family as Heard From Mom on Trip to Poland](seehafer-rememberances-trip-to-poland.md)
+---
 
-## Military
-- [WWI Service Record: Floyd T. Stoeckle](military-floyd-stoeckle-wwi.md)
-- [WWI Service Record: Henry N. Stoeckle](military-henry-stoeckle-wwi.md)
+## Memoirs & Family Documents
 
-## Other
-- TODO: Add additional source pages as materials are processed.
+First-hand accounts and family recollections.
+
+| Document | Description |
+|----------|-------------|
+| [Remembrances of Sturgis](jds-memories.md) | As heard from John D. Stoeckle |
+| [Seehafer Family Remembrances](seehafer-rememberances-trip-to-poland.md) | As heard from Mom on trip to Poland |
+
+---
+
+## Military Records
+
+| Person | War | Link |
+|--------|-----|------|
+| Floyd T. Stoeckle | WWI | [Service Record](military-floyd-stoeckle-wwi.md) |
+| Henry N. Stoeckle | WWI | [Service Record](military-henry-stoeckle-wwi.md) |
+
+---
+
+## Missing Sources (TODO)
+
+Documents we'd like to obtain:
+- Death certificate for Bertha A. Seehafer (1960) — MI cert #002046 referenced
+- Death certificate for Katherine Friederike Nuffer Stoeckle (1932)
+- Birth records for all individuals
+- Census records (1900, 1910, 1920, 1930)
+- Probate files

@@ -24,6 +24,15 @@ privacy:
 
 # Theodore Ernest Stoeckle
 
+> **Born:** February 8, 1924 in Ann Arbor, Michigan | **Died:** February 21, 1924 in Ann Arbor, Michigan (age 13 days)
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | Floyd Stoeckle |
+| Mother | Alice L. Snyder |
+
 ## Facts
 - Born on 1924-02-08 in [Ann Arbor, Michigan](../places/ann-arbor-michigan.md).
 - Died on 1924-02-21 in [Ann Arbor, Michigan](../places/ann-arbor-michigan.md); cause of death listed as bronchopneumonia (lobular).

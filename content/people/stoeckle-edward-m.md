@@ -24,6 +24,15 @@ privacy:
 
 # Edward M. Stoeckle
 
+> **Born:** December 12, 1849 in Ohio | **Died:** February 5, 1915 in Ann Arbor, Michigan
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | Edward Stoeckle |
+| Mother | Unknown |
+
 ## Facts
 - Birth date listed as 1849-12-12 in Ohio.
 - Occupation listed as barber.

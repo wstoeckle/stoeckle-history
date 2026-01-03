@@ -1,3 +1,70 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Stoeckle History custom styles
+
+// Improve table readability
+.center table {
+  width: 100%;
+  margin: 1.5rem 0;
+
+  th {
+    background-color: var(--lightgray);
+    font-weight: 600;
+    text-align: left;
+    padding: 0.75rem 1rem;
+  }
+
+  td {
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid var(--lightgray);
+  }
+
+  tr:hover td {
+    background-color: var(--lightgray);
+  }
+}
+
+// Highlight birth/death summary at top of person pages
+.center blockquote:first-of-type {
+  background-color: var(--lightgray);
+  border-left: 4px solid var(--secondary);
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 1.5rem 0;
+  font-style: normal;
+
+  strong {
+    color: var(--secondary);
+  }
+}
+
+// Better spacing for horizontal rules (section dividers)
+.center hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid var(--lightgray);
+}
+
+// Family connection tables - compact styling
+.center h2 + table {
+  margin-top: 0.75rem;
+}
+
+// Make links in tables more visible
+.center table a {
+  font-weight: 500;
+}
+
+// Quick Links section styling
+.center h2:last-of-type + ul {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    padding: 0.25rem 0;
+
+    &::before {
+      content: "→ ";
+      color: var(--secondary);
+    }
+  }
+}

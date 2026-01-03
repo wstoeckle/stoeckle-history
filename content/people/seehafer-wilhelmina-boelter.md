@@ -24,6 +24,21 @@ privacy:
 
 # Wilhelmina Boelter Seehafer
 
+> **Born:** January 30, 1848 in Germany | **Died:** October 13, 1922 in Ann Arbor, Michigan
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | Fred Boelter |
+| Mother | Mary Ludtke |
+| Spouse | [William Gottlieb Seehafer](seehafer-william-gottlieb.md) |
+| Daughter | [Clara F. Seehafer](seehafer-clara-f.md) |
+| Daughter | [Ida M. Seehafer](seehafer-ida-m.md) |
+| Daughter | [Bertha A. Seehafer](seehafer-bertha-a.md) |
+| Daughter | [Alvina Helena Seehafer](seehafer-alvina-helena.md) |
+| Son | [William "Bill" Seehafer](seehafer-william-carl-bill.md) |
+
 ## Facts
 - Died in 1922.
 - Unconfirmed: Ann Arbor City Directory entries list "Seehafer Wm (Wilhelmina)" at 1134 Main N. (1904-1905) and 509 Cedar (1908-1919).

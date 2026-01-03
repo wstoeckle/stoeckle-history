@@ -24,6 +24,19 @@ privacy:
 
 # Clara F. Seehafer
 
+> **Born:** September 23, 1886 in Germany | **Died:** November 16, 1916 at Pontiac State Hospital
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | [William Gottlieb Seehafer](seehafer-william-gottlieb.md) |
+| Mother | [Wilhelmina Boelter Seehafer](seehafer-wilhelmina-boelter.md) |
+| Sister | [Ida M. Seehafer](seehafer-ida-m.md) |
+| Sister | [Bertha A. Seehafer](seehafer-bertha-a.md) |
+| Sister | [Alvina Helena Seehafer](seehafer-alvina-helena.md) |
+| Brother | [William "Bill" Seehafer](seehafer-william-carl-bill.md) |
+
 ## Facts
 - Died in 1916 at Pontiac State Hospital; cause listed as lobar pneumonia.
 - Death certificate notes an insanity duration and that the physician attended since 1909-06-24.

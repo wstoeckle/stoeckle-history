@@ -24,6 +24,17 @@ privacy:
 
 # William "Bill" Seehafer
 
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | [William Gottlieb Seehafer](seehafer-william-gottlieb.md) (likely) |
+| Mother | [Wilhelmina Boelter Seehafer](seehafer-wilhelmina-boelter.md) (likely) |
+| Sister | [Clara F. Seehafer](seehafer-clara-f.md) |
+| Sister | [Ida M. Seehafer](seehafer-ida-m.md) |
+| Sister | [Bertha A. Seehafer](seehafer-bertha-a.md) |
+| Sister | [Alvina Helena Seehafer](seehafer-alvina-helena.md) |
+
 ## Facts
 - Ann Arbor City Directory entries list "Seehafer Wm C" at 509 Cedar with occupations including meat cutter and laborer (1910-1919).
 - Unconfirmed: Family memoir describes "Uncle Bill (Wilhelm Seehafer)" as a meat cutter who later owned a shop/restaurant and died in Ann Arbor in 1958.

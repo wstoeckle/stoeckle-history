@@ -24,6 +24,12 @@ privacy:
 
 # Julius Seehafer
 
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Spouse | [Rebecca Seehafer](seehafer-rebecca.md) |
+
 ## Facts
 - Listed in Ann Arbor city directories as residing at 1202 Pontiac with occupations including cabinetmaker and watchman (1908-1919).
 - Listed as spouse of Rebecca Seehafer on her death certificate.

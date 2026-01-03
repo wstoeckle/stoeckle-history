@@ -24,6 +24,21 @@ privacy:
 
 # William Gottlieb Seehafer
 
+> **Born:** April 23, 1847 in Germany | **Died:** May 2, 1921 in Ann Arbor, Michigan
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | Michael Seehafer |
+| Mother | Wilhelmina Luebke |
+| Spouse | [Wilhelmina Boelter Seehafer](seehafer-wilhelmina-boelter.md) |
+| Daughter | [Clara F. Seehafer](seehafer-clara-f.md) |
+| Daughter | [Ida M. Seehafer](seehafer-ida-m.md) |
+| Daughter | [Bertha A. Seehafer](seehafer-bertha-a.md) |
+| Daughter | [Alvina Helena Seehafer](seehafer-alvina-helena.md) |
+| Son | [William "Bill" Seehafer](seehafer-william-carl-bill.md) |
+
 ## Facts
 - Died in 1921; cause listed as mitral stenosis.
 - Unconfirmed: Ann Arbor City Directory entries list "Seehafer Wm G (Wilhelmina)" at 1134 Main N. (1905) and "Seehafer Wm (Wilhelmina)" at 509 Cedar (1908-1919).

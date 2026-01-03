@@ -24,6 +24,19 @@ privacy:
 
 # Bertha A. Seehafer
 
+> **Died:** January 17, 1960 in Ann Arbor, Michigan
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Father | [William Gottlieb Seehafer](seehafer-william-gottlieb.md) (likely) |
+| Mother | [Wilhelmina Boelter Seehafer](seehafer-wilhelmina-boelter.md) (likely) |
+| Sister | [Clara F. Seehafer](seehafer-clara-f.md) |
+| Sister | [Ida M. Seehafer](seehafer-ida-m.md) |
+| Sister | [Alvina Helena Seehafer](seehafer-alvina-helena.md) |
+| Brother | [William "Bill" Seehafer](seehafer-william-carl-bill.md) |
+
 ## Facts
 - Died on 1960-01-17 in Ann Arbor, Michigan.
 - Listed in the Ann Arbor City Directory as a domestic at 604 Washington E. (1902) and boarding at 1134 Main N. (1904-1905) and 509 Cedar (1908-1918).

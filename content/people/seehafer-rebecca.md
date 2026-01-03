@@ -24,6 +24,14 @@ privacy:
 
 # Rebecca Seehafer
 
+> **Born:** July 8, 1865 in Germany | **Died:** August 5, 1919 in Ann Arbor, Michigan
+
+## Family
+
+| Relationship | Name |
+|--------------|------|
+| Spouse | [Julius Seehafer](seehafer-julius.md) |
+
 ## Facts
 - Birth date listed as 1865-07-08 in Germany.
 - Married to Julius Seehafer (listed on death certificate).
