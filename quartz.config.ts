@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     // TODO: Set baseUrl for GitHub Pages.
     // - username.github.io -> baseUrl: ""
     // - username.github.io/repo -> baseUrl: "repo"
-    baseUrl: "REPO_NAME_HERE",
+    baseUrl: "stoeckle-history",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {

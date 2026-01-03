@@ -2,10 +2,11 @@
 node_modules/
 dist/
 .quartz-cache/
+public/
+local_backup/
 
 # OS cruft
 .DS_Store
 
 # Logs
 npm-debug.log*
-
